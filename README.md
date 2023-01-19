@@ -19,7 +19,7 @@
 <div>
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRRF&show_icons=true&count_private=true&hide_border=true&theme=dark&" alt="Guilherme commits" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRRF&layout=compact&hide_border=true&theme=dark&" />
+  <img align="right" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRRF&layout=compact&hide_border=true&theme=dark&" />
 </div>
 <br>
 
