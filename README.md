@@ -18,9 +18,8 @@
   
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRRF&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRRF&layout=compact&theme=dark)](https://github.com/GuilhermeRRF/github-readme-stats)
-
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRRF&show_icons=true&count_private=true&hide_border=true&theme=dark&" alt="Guilherme commits" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRRF&layout=compact&hide_border=true&theme=dark&" />
 </div>
 <br>
 
