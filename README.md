@@ -18,9 +18,9 @@
   
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRRF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRRF&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"
-/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 <br>
