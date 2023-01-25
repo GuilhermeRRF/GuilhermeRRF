@@ -12,7 +12,7 @@
 - 🧑🏽‍💻 Programador Full Stack
 - 🛶 Ex Aluno do Proa
 - 👨🏽‍🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 📩 Email:romeiro.gui@hotmail.com
+- 📩 Email: romeiro.gui@hotmail.com
 
 <div>
   
