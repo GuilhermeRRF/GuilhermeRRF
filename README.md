@@ -10,7 +10,7 @@
 <br>
 
 - 🧑🏽‍💻 Programador Full Stack
-- 🛶 Ex Aluno do Proa
+- 🛶 Aluno do Proa
 - 👨🏽‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 📄 Meu Curriculo Online: https://guilhermerrf.github.io
 - 📩 Email: romeiro.gui@hotmail.com
