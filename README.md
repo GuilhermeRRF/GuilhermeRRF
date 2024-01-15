@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=075200&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=075200&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;Me+chamo+Guilherme+Romeiro;Tenho+20+anos;Moro+em+São+Paulo,+Brasil;Cursando;+Análise+e+Desenvolvimento+de+Sistemas;No+Centro+Univerisitário+FAM!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=075200&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;Me+chamo+Guilherme+Romeiro;Tenho+21+anos;Moro+em+São+Paulo,+Brasil;Cursando;+Análise+e+Desenvolvimento+de+Sistemas;No+Centro+Univerisitário+FAM!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -45,7 +45,6 @@
   
 <div> 
 <h1 align="center">Redes Sociais</h1>
-  <a href="https://instagram.com/guilherme_rrf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:romeiro.gui@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-romeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
