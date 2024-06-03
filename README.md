@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=075200&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=075200&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;Me+chamo+Guilherme+Romeiro;Tenho+21+anos;Moro+em+São+Paulo,+Brasil;Formado+em;+Análise+e+Desenvolvimento+de+Sistemas;No+Centro+Univerisitário+FAM!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=075200&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;Me+chamo+Guilherme+Romeiro;Tenho+22+anos;Moro+em+São+Paulo,+Brasil;Formado+em;+Análise+e+Desenvolvimento+de+Sistemas;No+Centro+Univerisitário+FAM!+:%29)](https://git.io/typing-svg)
 
 
 
